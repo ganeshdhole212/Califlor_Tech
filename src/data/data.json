@@ -1,0 +1,180 @@
+{
+  "Header": {
+    "title": "Califlor Tech Solution",
+    "paragraph": "You have a voice. We are here to listen.Califlor Solution is committed to helping each client find their voice and recover what has been lost."
+  },
+  "About": {
+    "paragraph": "One Contact Solution works with medical and legal experts as well as patients and advocates to provide accurate, trustworthy, and current information about prescription drug side effects, medical device complications, and related lawsuits. Our team members have several years of medical and legal research experience and are passionate about advocating for people injured by the negligence of corporations. Through Drugwatch, consumers can get the information they need to make informed health care decisions, share their drug and device stories, and connect with an experienced national law firm.",
+	"CompanyDetails":"At Califlor Tech Solutions, we pride ourselves on being at the forefront of lead generation in the mass tort arena. Our experienced team of professionals combines cutting-edge technology and strategic marketing techniques to identify and engage potential claimants efficiently. Through our comprehensive lead generation services, we help legal firms connect with qualified individuals who have been affected by mass tort incidents, enabling them to build strong cases while providing justice and compensation to those in need.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Califlor Tech Solution",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Califlor Tech Solution",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Califlor Tech Solution",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Califlor Tech Solution",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Califlor Tech Solution",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Califlor Tech Solution",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Califlor Tech Solution",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Califlor Tech Solution",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Califlor Tech Solution",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lead Generations",
+      "text": "Find customers online to turn them into buyers."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Customer Services",
+      "text": "Help customers with questions or problems to keep them happy."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Outbound Voice Process",
+      "text": "Call customers for sales, feedback, or updates."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Case Management",
+      "text": "Track and solve customer issues step by step."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Document Review",
+      "text": "Check papers for mistakes or rules.."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Case Appointment Settlement",
+      "text": "Fix customer issues by scheduling and solving them."
+    },
+	{
+      "icon": "fa fa-pie-chart",
+      "name": "Quality Assurance Ensure Data Safety",
+      "text": "Check work quality to make customers happy."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Michael Kovar",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Ofiice No 812. 8th floor Sai Millennium Punawale Wakad Pune ",
+    "phone": "8010209664",
+    "email": "Info@califlortechsolutions.com",
+    "facebook": "https://www.instagram.com/califlor_tech_solutions?igsh=bGhkeXR4N2l3Y2o5",
+    "twitter": "https://www.linkedin.com/company/califlor-tech-solutions-pvt-ltd/",
+    "youtube": "https://www.youtube.com/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Our Mission",
+      "text": "To protect people from potentially harmful pharmaceuticals,medical gadgets and treatments by alerting them about medical issues,severe adverse effects and action options."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Our Vision",
+      "text": "To support people in the legal and medical professions in every manner while connecting with as many genuine individuals as can be reached through valuable and high-quality lead generations Also, We are excited to be working on various medical projects.Our team is highly skilled and professional.We want to provide high-quality leads and services to our clients.We are looking forward to growing together."
+    }
+  ]
+}
